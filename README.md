@@ -6,15 +6,19 @@ Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les c
 
 ## Exemple 
 La question initiale suivante:<br>
-X. Quelle chiffre est supérieur à 3?
+```
+1. Quelle chiffre est supérieur à 3?
 - 1
 - 2
 - 3
 - 4
+```
 
 Deviendrait:<br>
-X. Quelle chiffre est supérieur à 3?
+```
+1. Quelle chiffre est supérieur à 3?
 - 4
+```
 
 ## Début du questionnaire 
 ### Trello
