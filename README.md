@@ -5,7 +5,7 @@ Dans le cas d'une question ouverte, veuillez ajouter votre réponses sous la que
 Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les choix qui vous semblent bon et supprimer les autres.
 
 ## Exemple 
-La question initiale suivante<br>
+La question initiale suivante:<br>
 X. Quelle chiffre est supérieur à 3?
 - 1
 - 2
