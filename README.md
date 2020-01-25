@@ -3,7 +3,7 @@
 ### Trello
 1. Créez un tableau Trello
   * Nommez le `Star Wars`.
-  * Ajustez sa visibilité à `Public`.
+  * Ajustez sa visibilité à `Privé`.
   * Mettre sa couleur de fond à gris.
 2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué par l'empire`.
 3. Créez une carte intitulé `Apprentissage`. 
