@@ -1,9 +1,5 @@
 # trello-git
 
-Voici un questionnaire. 
-
-
-## Début du questionnaire 
 ### Trello
 1. Créez un tableau Trello
   * Nommez le `Star Wars`.
