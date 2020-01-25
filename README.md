@@ -25,7 +25,7 @@
 ### Git
 Pour cette seconde partie, dans la carte `Correction vous devez faire`, créez une `Checklist` intitulée `L'Épreuve du Jedi`. Pour chacune des questions suivantes, ajoutez un élément à la liste contenant votre réponse.
 
-1. Lequel de ces outils s'occupe de l'aspect *en ligne* d'un projet
+1. Lequel de ces outils s'occupe de l'aspect *en ligne* d'un projet?
 - Git
 - GitHub
 - GitHub Desktop
