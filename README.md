@@ -28,8 +28,8 @@ Deviendrait:<br>
   * Mettre sa couleur de fond à gris.
 2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué par l'empire`.
 3. Créez une carte intitulé `Examen`. 
-  * Ajoutez-y une étiquette jaune intitulée `La force`.
-  * Ajoutez-y comme date limite le 3 Février 2020 à 12h00.
+  * Ajoutez-y une `étiquette` jaune intitulée `La force`.
+  * Ajoutez-y comme `date limite` le `3 Février 2020 à 12h00`.
   * Assignez vous la carte.
   * Ajoutez-y comme description le texte suivant: `Padawan Trello`.
   * Ajoutez-y une `Checklist` intitulée `Tâches du padawan`
