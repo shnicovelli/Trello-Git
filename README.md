@@ -56,5 +56,5 @@ Deviendrait:<br>
 - Pull
 3. Si vous allez dans la branche appelé `Tatooine` quel est le texte inscris dans le fichier README.md<br>
 [écrire votre réponse ici]
-4. Dans l'historique de ce projet, ce trouve le nom d'un personnage de Star Wars, qui est-ce?<br>
+4. Dans l'historique de ce projet à la révision `24a3131`, se trouve le nom d'un personnage de Star Wars, qui est-ce?<br>
 [écrire votre réponse ici]
