@@ -23,24 +23,24 @@ Deviendrait:<br>
 ## Début du questionnaire 
 ### Trello
 1. Créez un tableau Trello
-  * Nommez le `Examen: Trello & GitHub`.
+  * Nommez le `Star Wars`.
   * Ajustez sa visibilité à `Public`.
   * Mettre sa couleur de fond à gris.
-2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué`.
+2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué par l'empire`.
 3. Créez une carte intitulé `Examen`. 
-  * Ajoutez à la carte une étiquette jaune intitulée `Partie Trello`.
-  * Ajoutez comme date limite le 27 janvier 2020 à 12h00.
+  * Ajoutez-y une étiquette jaune intitulée `La force`.
+  * Ajoutez-y comme date limite le 27 janvier 2020 à 12h00.
   * Assignez vous la carte.
-  * Ajoutez comme description le texte suivant: `Réussir mon examen`.
-  * Ajoutez une liste `Checklist` intitulée `Tâches`
-    * Ajoutez-y comme éléments `Faire la partie Trello` et `Faire la partie GitHub`. 
-    * Marquez l'élément `Faire la partie Trello` comme étant fait et laissez l'élément `Faire la partie GitHub` à faire. 
-4. Attribuez vous la carte et placez la dans la colonne `Fait`.
-5. Invitez moi via l'adresse courriel moi@smnarnold.com à rejoindre votre tableau.
-6. Créez une deuxième carte intitulé `Correction` et placez la dans la colonne `À faire`.
+  * Ajoutez-y comme description le texte suivant: `Padawan Trello`.
+  * Ajoutez-y une `Checklist` intitulée `Tâches du padawan`
+    * Ajoutez-y comme éléments `Organisez la rébellion` et `Détruire la Death Star`. 
+    * Marquez l'élément `Organisez la rébellion` comme étant fait et laissez l'élément `Détruire la Death Star` à faire. 
+4. Attribuez vous la carte et placez la dans la colonne `Actif`.
+5. Invitez moi via l'adresse courriel `yoda@smnarnold.com` à rejoindre votre tableau.
+6. Créez une deuxième carte intitulé `Correction vous devez faire` et placez la dans la colonne `À faire`.
   * Assignez moi cette carte.
-  * Ajoutez lui une `Image de couverture` ayant pour thématique `Star Wars`.
-  * Dans la section `activité` laissez moi en commentaire `Je suis entrain de devenir un maître Jedi de Trello!`
+  * Ajoutez lui une `Image de couverture` ayant pour thème `Star Wars`.
+  * Dans la section `Activité` laissez comme commentaire `Un Jedi utilise la Force pour la connaissance.`
 ### Git
 1. Lequel de ces outils s'occupe de l'aspect *en ligne* d'un projet
 - Git
