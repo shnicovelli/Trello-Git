@@ -3,8 +3,7 @@
 ### Trello
 1. Créez un tableau Trello
   * Nommez le `Star Wars`.
-  * Ajustez sa visibilité à `Privé`.
-  * Mettre sa couleur de fond à gris.
+  * Mettre sa `couleur de fond` à `gris`.
 2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué par l'empire`.
 3. Créez une carte intitulé `Apprentissage`. 
   * Ajoutez-y une `étiquette` jaune intitulée `La force`.
@@ -12,14 +11,17 @@
   * Assignez vous la carte.
   * Ajoutez-y comme description le texte suivant: `Apprentissage du padawan Trello`.
   * Ajoutez-y une `Checklist` intitulée `Tâches du padawan`
-    * Ajoutez-y comme éléments `Organisez la rébellion` et `Détruire la Death Star`. 
+    * Ajoutez-y comme éléments `Organisez la rébellion` et `Détruire l'étoile de la mort`. 
     * Marquez l'élément `Organisez la rébellion` comme étant fait et laissez l'élément `Détruire la Death Star` à faire. 
 4. Attribuez vous la carte et placez la dans la colonne `Actif`.
-5. Invitez moi via l'adresse courriel `yoda@smnarnold.com` à rejoindre votre tableau.
+5. Créez une équipe et nommez la `l'Alliance`.
+  * Ajoutez moi à l'équipe via l'adresse courriel `yoda@smnarnold.com`.
+  * Changez la visibilité du tableau de `Privé` à `Équipe` et sélectionnez l'équipe `l'Alliance`.
 6. Créez une deuxième carte intitulé `Correction vous devez faire` et placez la dans la colonne `À faire`.
   * Assignez moi cette carte.
-  * Ajoutez lui une `Image de couverture` ayant pour thème `Star Wars`.
+  * Ajoutez-y une `Image de couverture` ayant pour thème `Star Wars`.
   * Dans la section `Activité` laissez comme commentaire `Un Jedi utilise la Force pour la connaissance.`
+  
 ### Git
 Pour cette seconde partie, faite un `Fork` de ce projet.
 Répondez au questionnaire suivant en apportant des changements dans le README.md directement.
