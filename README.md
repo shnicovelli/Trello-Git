@@ -53,7 +53,7 @@ Deviendrait:<br>
 3. Si une nouvelle version plus récente de mon projet est disponible, Git me demandera de faire en premier un...
 - Push
 - Pull
-4. Si vous allez dans la branche appelé `exemple-de-branche` quel est le texte dans le fichier README.md<br>
+4. Si vous allez dans la branche appelé `Tatooine` quel est le texte inscris dans le fichier README.md<br>
 [écrire votre réponse ici]
 5. Dans l'historique de ce projet, ce trouve le nom d'un X-men, qui est-ce?<br>
 [écrire votre réponse ici]
