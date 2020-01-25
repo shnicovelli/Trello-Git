@@ -23,31 +23,7 @@
   * Dans la section `Activité` laissez comme commentaire `Un Jedi utilise la Force pour la connaissance.`
   
 ### Git
-Pour cette seconde partie, faite un `Fork` de ce projet.
-Répondez au questionnaire suivant en apportant des changements dans le README.md directement.
-Poussez (faite un push) votre copie du projet sur votre compte GitHub et envoyez moi un `Pull Request`.
-
-Dans le cas d'une question ouverte, veuillez ajouter votre réponses sous la question.
-Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les choix correspondant à votre réponse et supprimer le reste.
-
-## Exemple 
-La question initiale suivante:<br>
-```
-1. Quelle chiffre est supérieur à 3?
-- 1
-- 2
-- 3
-- 4
-```
-
-Deviendrait:<br>
-```
-1. Quelle chiffre est supérieur à 3?
-- 4
-```
-
-## Début du questionnaire
-
+Pour cette seconde partie, dans la carte `Correction vous devez faire`, créez une `Checklist` intitulée `L'Épreuve du Jedi`. Pour chacune des questions suivantes, ajoutez un élément à la liste contenant votre réponse.
 
 1. Lequel de ces outils s'occupe de l'aspect *en ligne* d'un projet
 - Git
@@ -56,7 +32,5 @@ Deviendrait:<br>
 2. Si une nouvelle version plus récente de mon projet est disponible, Git me demandera de faire en premier un...
 - Push
 - Pull
-3. Si vous allez dans la branche appelé `Tatooine` quel est le texte inscris dans le fichier README.md<br>
-[écrire votre réponse ici]
-4. Dans l'historique de ce projet à la révision `24a3131`, se trouve le nom d'un personnage de Star Wars, qui est-ce?<br>
-[écrire votre réponse ici]
+3. Si vous allez dans la branche appelé `Tatooine` quel est le texte inscris dans le fichier README.md?
+4. Dans l'historique de ce projet à la révision `24a3131`, se trouve le nom d'un personnage de Star Wars. Qui est-ce?
