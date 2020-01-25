@@ -1,24 +1,7 @@
 # trello-git
 
 Voici un questionnaire. 
-Dans le cas d'une question ouverte, veuillez ajouter votre réponses sous la question.
-Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les choix correspondant à votre réponse et supprimer le reste.
 
-## Exemple 
-La question initiale suivante:<br>
-```
-1. Quelle chiffre est supérieur à 3?
-- 1
-- 2
-- 3
-- 4
-```
-
-Deviendrait:<br>
-```
-1. Quelle chiffre est supérieur à 3?
-- 4
-```
 
 ## Début du questionnaire 
 ### Trello
@@ -42,6 +25,32 @@ Deviendrait:<br>
   * Ajoutez lui une `Image de couverture` ayant pour thème `Star Wars`.
   * Dans la section `Activité` laissez comme commentaire `Un Jedi utilise la Force pour la connaissance.`
 ### Git
+Pour cette seconde partie, faite un `Fork` de ce projet.
+Répondez au questionnaire suivant en apportant des changements dans le README.md directement.
+Poussez (faite un push) de votre questionnaire sur votre compte GitHub et envoyez moi un `Pull Request`.
+
+Dans le cas d'une question ouverte, veuillez ajouter votre réponses sous la question.
+Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les choix correspondant à votre réponse et supprimer le reste.
+
+## Exemple 
+La question initiale suivante:<br>
+```
+1. Quelle chiffre est supérieur à 3?
+- 1
+- 2
+- 3
+- 4
+```
+
+Deviendrait:<br>
+```
+1. Quelle chiffre est supérieur à 3?
+- 4
+```
+
+## Début du questionnaire
+
+
 1. Lequel de ces outils s'occupe de l'aspect *en ligne* d'un projet
 - Git
 - GitHub
