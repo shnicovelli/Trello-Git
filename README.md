@@ -29,8 +29,9 @@ Pour cette seconde partie, dans la carte `Correction vous devez faire`, créez u
 - Git
 - GitHub
 - GitHub Desktop
-2. Si une nouvelle version plus récente de mon projet est disponible, Git me demandera de faire en premier un...
+2. Si une nouvelle version plus récente de votre projet est disponible, Git vous demandera de faire en premier un...
 - Push
 - Pull
-3. Si vous allez dans la branche appelé `Tatooine` quel est le texte inscris dans le fichier README.md?
+3. Si vous allez dans la branche appelé `Tatooine`, quel est le texte inscrit dans le fichier README.md?
 4. Dans l'historique de ce projet à la révision `24a3131`, se trouve le nom d'un personnage de Star Wars. Qui est-ce?
+5. Faite un `Fork` du projet. Modifier le contenu du README.md pour inclure uniquement votre nom. Pousser votre modification sur GitHub, et envoyer moi un `pull request`.
