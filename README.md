@@ -23,7 +23,7 @@
 ### Git
 Pour cette seconde partie, faite un `Fork` de ce projet.
 Répondez au questionnaire suivant en apportant des changements dans le README.md directement.
-Poussez (faite un push) de votre questionnaire sur votre compte GitHub et envoyez moi un `Pull Request`.
+Poussez (faite un push) votre copie du projet sur votre compte GitHub et envoyez moi un `Pull Request`.
 
 Dans le cas d'une question ouverte, veuillez ajouter votre réponses sous la question.
 Dans le cas d'un choix de réponse multiple, veuillez conserver uniquement les choix correspondant à votre réponse et supprimer le reste.
