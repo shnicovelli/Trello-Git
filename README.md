@@ -5,7 +5,7 @@
   * Nommez le `Star Wars`.
   * Mettre sa `couleur de fond` à `gris`.
 2. Créez 4 listes: `À faire`, `Actif`, `Fait` et `Bloqué par l'empire`.
-3. Créez une carte intitulé `Apprentissage`. 
+3. Créez une carte intitulé `Apprentissage` dans la colonne `À faire`. 
   * Ajoutez-y une `étiquette` jaune intitulée `La force`.
   * Ajoutez-y comme `date limite` le `3 Février 2020 à 12h00`.
   * Assignez vous la carte.
