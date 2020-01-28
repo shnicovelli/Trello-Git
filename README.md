@@ -16,7 +16,7 @@
 4. Attribuez vous la carte et placez la dans la colonne `Actif`.
 5. Créez une équipe et nommez la `l'Alliance - [insérer votre nom]`.
   * Ajoutez moi à l'équipe via l'adresse courriel `yoda@smnarnold.com`.
-  * Changez la visibilité du tableau de `Privé` à `Équipe` et sélectionnez l'équipe `l'Alliance`.
+  * Changez la visibilité du tableau de `Privé` à `Équipe` et sélectionnez l'équipe que vous venez de créer: `l'Alliance - [insérer votre nom]`.
 6. Créez une deuxième carte intitulé `Correction vous devez faire` et placez la dans la colonne `À faire`.
   * Assignez moi cette carte.
   * Ajoutez-y une `Image de couverture` ayant pour thème `Star Wars`.
