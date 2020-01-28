@@ -13,7 +13,7 @@
   * Ajoutez-y une `Checklist` intitulée `Tâches du padawan`
     * Ajoutez-y comme éléments `Organisez la rébellion` et `Détruire l'étoile de la mort`. 
     * Marquez l'élément `Organisez la rébellion` comme étant complété et laissez l'élément `Détruire la Death Star` à faire. 
-4. Attribuez vous la carte et placez la dans la colonne `Actif`.
+4. Placez la dans la colonne `Actif`.
 5. Créez une équipe et nommez la `l'Alliance - [insérer votre nom]`.
   * Ajoutez moi à l'équipe via l'adresse courriel `yoda@smnarnold.com`.
   * Changez la visibilité du tableau de `Privé` à `Équipe` et sélectionnez l'équipe que vous venez de créer: `l'Alliance - [insérer votre nom]`.
