@@ -1,4 +1,4 @@
-# trello-git
+# Trello-Git
 
 ### Trello
 1. Créez un tableau Trello
